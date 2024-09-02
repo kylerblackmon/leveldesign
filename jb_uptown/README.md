@@ -14,4 +14,6 @@ Bonedemic - untested
 
 Hunted
 
-Sneaks Vs Terrorists - preliminary
+Sneaks Vs Terrorists - Preliminary. Sneaks disadvantaged at the moment by lack of vents and such.
+
+Sneaks vs M's - Theoretically works, though would probably not be fun unless you've got a very high number of players.
