@@ -17,3 +17,5 @@ Hunted
 Sneaks Vs Terrorists - Preliminary. Sneaks disadvantaged at the moment by lack of vents and such.
 
 Sneaks vs M's - Theoretically works, though would probably not be fun unless you've got a very high number of players.
+
+Race - Preliminary. Players have to race to reach the helicopter.
