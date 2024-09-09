@@ -12,7 +12,7 @@ Battle Royale
 
 Bonedemic - untested
 
-Hunted - currently suppotys one extraction zone. Future versions will allow for more.
+Hunted - currently supports one extraction zone. Future versions will allow for more.
 
 Sneaks Vs Terrorists - Preliminary. Sneaks disadvantaged at the moment by lack of vents and such.
 
